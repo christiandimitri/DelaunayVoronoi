@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\GitHub\DelaunayVoronoi\bin\Debug\netcoreapp2.2\DelaunayVoronoi.deps.json
+C:\Users\USER\Documents\GitHub\DelaunayVoronoi\bin\Debug\netcoreapp2.2\DelaunayVoronoi.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\DelaunayVoronoi\bin\Debug\netcoreapp2.2\DelaunayVoronoi.runtimeconfig.dev.json
+c:\Users\USER\Documents\GitHub\DelaunayVoronoi\bin\Debug\netcoreapp2.2\DelaunayVoronoi.dll
+c:\Users\USER\Documents\GitHub\DelaunayVoronoi\bin\Debug\netcoreapp2.2\DelaunayVoronoi.pdb
+c:\Users\USER\Documents\GitHub\DelaunayVoronoi\obj\Debug\netcoreapp2.2\DelaunayVoronoi.csprojAssemblyReference.cache
+c:\Users\USER\Documents\GitHub\DelaunayVoronoi\obj\Debug\netcoreapp2.2\DelaunayVoronoi.csproj.CoreCompileInputs.cache
+c:\Users\USER\Documents\GitHub\DelaunayVoronoi\obj\Debug\netcoreapp2.2\DelaunayVoronoi.AssemblyInfoInputs.cache
+c:\Users\USER\Documents\GitHub\DelaunayVoronoi\obj\Debug\netcoreapp2.2\DelaunayVoronoi.AssemblyInfo.cs
+c:\Users\USER\Documents\GitHub\DelaunayVoronoi\obj\Debug\netcoreapp2.2\DelaunayVoronoi.dll
+c:\Users\USER\Documents\GitHub\DelaunayVoronoi\obj\Debug\netcoreapp2.2\DelaunayVoronoi.pdb
